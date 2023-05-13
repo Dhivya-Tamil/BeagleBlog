@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beagle Blog</title>
+    </head>
+    <body>
+       <h1><u>The Beagle Blog</u></h1> 
+       <section>
+       <div>
+        <p>The <b>Beagle</b> is a breed of small scent hound, similar in appearance to the much larger foxhound. The <b>beagle</b> was developed primarily for hunting hare, known as beagling. Possessing a great sense of smell and superior tracking instincts, the <b>beagle</b> is the primary breed used as a detection dog for prohibited agricultural imports and foodstuffs in quarantine around the world. The <b>beagle</b> is intelligent and is a popular pet due to its size, good temper, and a lack of inherited health problems.</p>
+        <br>
+        <a href="https://en.wikipedia.org/wiki/Beagle" target="_blank">Read more</a>
+        </div>
+        </section>
+        <section>
+            <h2><u>Images</u></h2>
+            <img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ5a8W_q4p7UkKAYOICjfTz59BR-XSKDvyI1-Aztm_XMCsROmhNMlf-Ok-l3zo4t16N1sl5LWqBo0eCnf8" alt="logo" width="400px" height="400px"><br>
+            <a href="https://www.google.com/search?q=beagle&sxsrf=APwXEdd6RdkhnCHIV4iGbiiXwPsMzgLatw:1683963167589&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiH3qzT4_H-AhXhRmwGHeqRB9kQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1" target="_blank"><u>More Images</u></a>
+        </section>
+        <section>
+            <h2><u>Trivia</u></h2>
+            <ol start="1">
+                <li>Height - 13–16 in (33–41 cm)</li>
+                <li>Weight - 22–25 lb (10.0–11.3 kg)</li>
+                <li>Coat -Short haired, hard coat of medium length</li>
+                <li>Colour -Tricolor or white in combination with black & tan/brown or brown/tan</li> 
+                <li>Life span - 12–15 years</li>
+            </ol>
+        </section>
+    </body>
+</html>
